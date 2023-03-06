@@ -1,0 +1,1 @@
+Python code for 2 servers and a client. The servers and client uses TCP to connect to eachother and sends HTTP requests between them. The client has inputs for desired host to connect to and which file it wants to access. The first server can only handle on request at the time. The second server can handle multiple requests. 
